@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\main file",
+    "\\main file\\Documentaion",
+    "\\main file\\Documentaion\\common",
+    "\\main file\\Kids Game",
+    "\\main file\\Kids Game\\app",
+    "\\main file\\Kids Game\\app\\release",
+    "\\main file\\Kids Game\\app\\src",
+    "\\main file\\Kids Game\\app\\src\\main",
+    "\\main file\\Kids Game\\app\\src\\main\\assets"
+  ],
+  "SelectedNode": "\\main file\\Kids Game\\app\\src\\main\\AndroidManifest.xml",
+  "PreviewInSolutionExplorer": false
+}
